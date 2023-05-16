@@ -1,0 +1,124 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+    background-color: #5e5b5bad;
+    color: #333333;
+}
+/* Definindo uma estilização diferenciada para o body atráves da classe */
+body.dark-mode{
+    background-color: #212121;
+    color: #f5f5f5;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+
+/* Estilizando a classe logo que está dentro de uma tag header, se não estivesse escrito dessa forma ele estilizaria todas as classes logo */
+header .logo, 
+header .img-btn{
+    width: 30px;
+    transition: 0.2s ease-in-out;
+}
+
+#btn-change-theme{
+    background: none;
+    border: none;
+}
+
+header .logo:hover,
+header .img-btn:hover, 
+main .pokemon-card:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+main{
+    padding: 25px;
+}
+
+main .pokemon-listing{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+
+main .pokemon-card{
+    background-color: #d8e3ec;
+    width: 200px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    border-radius: 15px;
+    transition: 0.2s ease-in-out;
+}
+
+main .pokemon-card:hover{
+    background-color: #96d9d6;
+}
+
+.dark-mode .pokemon-card{
+    background-color: #a8a8a8;
+}
+/* Estilizando o information */
+main .pokemon-card .information{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #333333;
+    border-radius: 10px;
+}
+/* Estilizando o span do information */
+main .pokemon-card .information span{
+    padding: 5px;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+
+main .pokemon-card .gif{
+    width: 90px;
+    height: 90px;
+}
+
+main .pokemon-card .types{
+    display: flex;
+    gap: 15px;
+}
+
+main .pokemon-card .type{
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.grass {
+    background-color: #7ac74c;
+}
+
+.poison{
+    background-color: #df67ddfb;
+}
+
+.fire{
+    background-color: #ee8130;
+}
+
+.water{
+    background-color: #6390f0;
+}
+
+.insect{
+    background-color: #a6b91a;
+}
+
+main .description{
+    max-height: 80px;
+    overflow-y: scroll;
+    font-size: 14px;
+    padding-right: 10px;
+}
+
