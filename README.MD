@@ -11,12 +11,12 @@ O projeto Pokélist consiste em uma lista de cards com a imagem e informações 
 - <a href="#pessoas"> Pessoas Autoras</a>
 - <a href="#passos"> Próximos Passos</a>
 
-## 📱Funcionalidades do Projeto 
+## 📱Funcionalidades do Projeto {#funcionalidades}
 
 - [x] Efeito de seleção ao passar o cursor pelo card
 - [x] Transição de temas "claro" e "escuro" ao clicar no botão da "lua" e/ou "sol"
 
-## 📐 Layout 
+## 📐 Layout {#layout}
 
 ![tela-clear](./src/img/layout/tela-principal-claro.png)
 
