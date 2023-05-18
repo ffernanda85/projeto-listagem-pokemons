@@ -6,12 +6,13 @@ O projeto Pokélist consiste em uma lista de cards com a imagem e informações 
 
 ## Índice
 
-- <a href='#funcionalidades'> Funcionalidades do Projeto</a>
-- <a href='#layout'> Layout</a>
-- <a href='#demonstracao'> Demosntração</a>
-- <a href='#rodar'> Como Rodar Este Projeto</a>
-- <a href='#tecnologias'> Tecnologias Utilizadas</a>
-- <a href='#funcionalidades'> Funcionalidades do Projeto</a>
+- <a href='#Funcionalidades'> Funcionalidades do Projeto</a>
+- <a href='#Layout'> Layout</a>
+- <a href='#Demonstracao'> Demosntração</a>
+- <a href='#Rodar'> Como Rodar Este Projeto</a>
+- <a href='#Tecnologias'> Tecnologias Utilizadas</a>
+- <a href='#Pessoas'> Pessoas Autoras</a>
+- <a href='#Passos'> Próximos Passos</a>
 
 ## 📱Funcionalidades do Projeto
 
