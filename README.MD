@@ -1,20 +1,17 @@
 # Projeto PokéList
-
 ![pokelist](./src/img/favicon/favicon-32x32.png)
-
 O projeto Pokélist consiste em uma lista de cards com a imagem e informações de cada pokémom.
 
 ## Índice
-
 - <a href="#funcionalidades"> Funcionalidades do Projeto</a>
-- <a href="#Layout"> Layout</a>
-- <a href="#Demonstracao"> Demonstração</a>
-- <a href="#Rodar"> Como Rodar Este Projeto</a>
-- <a href="#Tecnologias"> Tecnologias Utilizadas</a>
-- <a href="#Pessoas"> Pessoas Autoras</a>
-- <a href="#Passos"> Próximos Passos</a>
+- <a href="#layout"> Layout</a>
+- <a href="#demonstracao"> Demonstração</a>
+- <a href="#rodar"> Como Rodar Este Projeto</a>
+- <a href="#tecnologias"> Tecnologias Utilizadas</a>
+- <a href="#pessoas"> Pessoas Autoras</a>
+- <a href="#passos"> Próximos Passos</a>
 
-## 📱Funcionalidades do Projeto
+## 📱Funcionalidades do Projeto 
 
 - [x] Efeito de seleção ao passar o cursor pelo card
 - [x] Transição de temas "claro" e "escuro" ao clicar no botão da "lua" e/ou "sol"
