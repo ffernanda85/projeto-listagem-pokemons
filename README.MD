@@ -5,11 +5,11 @@ O projeto Pokélist consiste em uma lista de cards com a imagem e informações 
 ## Índice
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Layout](#layout)
-- [Demonstração](#demonstracao)
+- [Demonstração](#demonstração)
 - [Como Rodar Este Projeto](#como-rodar-este-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Pessoas Autoras](#pessoas-autoras)
-- [Próximos Passos](#proximos-passos)
+- [Próximos Passos](#próximos-passos)
 
 ## 📱Funcionalidades do Projeto
 
@@ -30,7 +30,7 @@ O projeto Pokélist consiste em uma lista de cards com a imagem e informações 
 [Link Demonstração](https://ffernanda85.github.io/projeto-listagem-pokemons/)
 
 
-## 🔧Como Rodar Este Projetos
+## 🔧Como Rodar Este Projeto
 
 ```bash
 # Clone este repositório
