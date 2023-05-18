@@ -3,7 +3,7 @@
 O projeto Pokélist consiste em uma lista de cards com a imagem e informações de cada pokémom.
 
 ## Índice
-- <a href="#funcionalidades"> Funcionalidades do Projeto</a>
+- [Funcionalidades do Projeto](#funcionalidades)
 - <a href="#layout"> Layout</a>
 - <a href="#demonstracao"> Demonstração</a>
 - <a href="#rodar"> Como Rodar Este Projeto</a>
